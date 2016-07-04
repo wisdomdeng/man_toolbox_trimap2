@@ -1,0 +1,6 @@
+"rbm/": code adapted or modified from Kihyuk's toolbox
+"mcnn-dev/": matconvnet layers
+"cnn-framework/": framework for convnet
+"dagcnn-framework/": framework for dag convnet (Caffe-like)
+"convvae-framework/": framewrok for vae convnet
+"data-loader/": load data
